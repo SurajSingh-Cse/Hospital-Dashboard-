@@ -36,16 +36,20 @@ This Hospital Patient Dashboard helps hospitals monitor and manage key healthcar
 <img width="1216" height="668" alt="Screenshot 2025-07-26 232308" src="https://github.com/user-attachments/assets/d3412710-f6f6-421e-b959-c3701001fd69" />
 
 ### 📍 Overview Dashboard
-![Overview](./screenshots/Screenshot1.png)
+<img width="1195" height="626" alt="Screenshot 2025-07-26 232334" src="https://github.com/user-attachments/assets/6a212335-059f-4ac0-bfe5-377ead4416cb" />
+
 
 ### 📍 Patient Details Dashboard
-![Patient](./screenshots/Screenshot2.png)
+<img width="1263" height="672" alt="Screenshot 2025-07-26 232355" src="https://github.com/user-attachments/assets/67d518c7-da73-4265-95fb-ea0ac87c4e6b" />
+
 
 ### 📍 Hospital Dashboard
-![Hospital](./screenshots/Screenshot3.png)
+<img width="1250" height="706" alt="Screenshot 2025-07-26 232424" src="https://github.com/user-attachments/assets/f417c6db-8b7a-4287-96d0-14f79de458a3" />
+
 
 ### 📍 Doctor Dashboard
-![Doctor](./screenshots/Screenshot4.png)
+<img width="1204" height="660" alt="Screenshot 2025-07-26 232458" src="https://github.com/user-attachments/assets/2ece817c-da84-42db-b603-9373233526f9" />
+
 
 ## 📁 Folder Structure
 
